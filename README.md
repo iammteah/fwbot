@@ -14,4 +14,4 @@
 - get oil (only on the right place)
 
 build the docker image on your own or use the existing image, for example:
-```sudo docker run --rm --name fwbot --env-file .env -v "${PWD}"/screenshots:/app/screenshots/ iammteah/fwbot:mvp```
+```sudo docker run --rm --name fwbot --env-file .env -v "${PWD}"/screenshots:/app/screenshots/ immihendrix/fwbot:mvp```
